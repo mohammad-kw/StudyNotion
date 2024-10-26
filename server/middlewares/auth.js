@@ -114,7 +114,7 @@ const User = require("../models/User");
 dotenv.config();
 
 // Hardcoded Admin Credentials
-const adminEmail = "msk2events0236@gmail.com";
+const adminEmail = "msk1events0236@gmail.com";
 const adminPassword = "1234"; // You can hash this password if necessary
 
 // Middleware for authenticating JWT tokens
